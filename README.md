@@ -1,5 +1,5 @@
 # 📈 Stock Market Movement Prediction
-## Preprocessing & EDA Guide
+## Preprocessing & EDA Guide 
 
 ---
 
